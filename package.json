@@ -1,0 +1,15 @@
+{
+  "name": "modern-css-properties",
+  "version": "1.0.0",
+  "description": "The CSS properties supported by all three major web browser engines.",
+  "main": "index.json",
+  "scripts": {
+    "prepare": "node prepare.js"
+  },
+  "repository": "https://github.com/JoelEinbinder/modern-css-properties",
+  "author": "Joel Einbinder",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^0.9.21"
+  }
+}
